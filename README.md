@@ -9,7 +9,7 @@
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://giphy.com/gifs/uwKJE3gmxbYI6tUYED" width=200><br>
+<img src="<iframe src="https://giphy.com/embed/uwKJE3gmxbYI6tUYED" width="224" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uwKJE3gmxbYI6tUYED">via GIPHY</a></p>" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’

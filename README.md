@@ -4,10 +4,9 @@
 ## Lab 2
 
 ### App Description
-`TODO://` Can add multiple flashcards to app.
+Can add multiple flashcards to app.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://media.giphy.com/media/uwKJE3gmxbYI6tUYED/giphy.gif" width=200><br>
 

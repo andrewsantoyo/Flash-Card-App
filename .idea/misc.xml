@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_iconmonstr_plus_6.xml" value="0.178" />
+        <entry key="app/src/main/res/drawable/ic_iconmonstr_x_mark_7.xml" value="0.178" />
+        <entry key="app/src/main/res/drawable/ic_save.xml" value="0.1895" />
+        <entry key="app/src/main/res/drawable/ic_xmark.xml" value="0.124" />
+        <entry key="app/src/main/res/layout/activity__add_card.xml" value="0.165" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.16927083333333334" />
       </map>
     </option>
   </component>

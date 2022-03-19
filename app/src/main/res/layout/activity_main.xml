@@ -22,6 +22,18 @@
         android:gravity="center"
         android:text="Spain"
         android:textSize="40sp"
-        android:visibility="invisible"
-        />
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/flashcard_add_question_button"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight='true'
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="31dp"
+        android:layout_marginBottom="29dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_plus_icon" />
+
+
 </RelativeLayout>

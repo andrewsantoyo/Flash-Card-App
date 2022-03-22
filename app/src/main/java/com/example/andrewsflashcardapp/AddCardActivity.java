@@ -25,8 +25,8 @@ public class AddCardActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent data = new Intent();
-                String inputAnswer = ((EditText) findViewById(R.id.flashcard_question_edittext)).getText().toString();
-                String inputQuestion = ((EditText) findViewById(R.id.flashcard_answer_edittext)).getText().toString();
+                String inputQuestion = ((EditText) findViewById(R.id.flashcard_question_edittext)).getText().toString();
+                String inputAnswer = ((EditText) findViewById(R.id.flashcard_answer_edittext)).getText().toString();
                 data.putExtra("QUESTION_KEY", inputQuestion);
                 data.putExtra("ANSWER_KEY", inputAnswer);
                 setResult(RESULT_OK, data);

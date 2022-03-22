@@ -35,5 +35,17 @@
         android:scaleType="fitXY"
         android:src="@drawable/ic_plus_icon" />
 
+    <ImageView
+        android:id="@+id/next_button"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight='true'
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="338dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_iconmonstr_arrow_28" />
+
+
 
 </RelativeLayout>

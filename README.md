@@ -1,3 +1,5 @@
+The code is in the master branch.
+
 ## Lab 3
 
 ### App Description

@@ -9,7 +9,7 @@ The app can now save data and understand how to retrieve saved data. The Flashca
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://media.giphy.com/media/gb8dslxMcs9o3gpue1/giphy.gif" width=200><br>
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://media.giphy.com/media/LmKlRzu7GCTfFhe2ji/giphy.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 

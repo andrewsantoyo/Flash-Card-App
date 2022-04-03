@@ -33,3 +33,18 @@ Can add multiple flashcards to app.
 - [x] User can enter and submit a Question and Answer through the 'Add Card Screen'
 - [x] User will see the card they just created on the main screen when they press the 'Save Button'
 - [x] Push your progress to GitHub!
+
+
+## Lab 1
+
+### App Walk-though
+
+<img src="https://media.giphy.com/media/uCcdP8yJUGN9JLNBKg/giphy.gif" width=200><br>
+
+
+## Required
+- [X] Create New Project in Android Studio
+- [X] Add a view for the front side of the flashcard to display the question
+- [X] Add a view for the back side of the flashcard to display the answer
+- [X] Build in logic to show the answer side when the card is tapped
+- [X] Push code to GitHu

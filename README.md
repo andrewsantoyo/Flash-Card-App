@@ -3,11 +3,13 @@ The code is in the master branch.
 ## Lab 4
 
 ### App Description
-The app has a new launcher icon and new transition animations.
+The app has new transition animations.
 
 ### App Walk-though
 
 <img src="https://media.giphy.com/media/qLEH5tycEY84cbhjbB/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/xUFkDThajbUyFI09VS/giphy.gif" width=200><br>
+
 
 ## Required
 - [X] User sees a transition animation when going from the main screen to the add card screen.
